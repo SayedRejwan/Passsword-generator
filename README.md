@@ -81,26 +81,6 @@ password-generator/
 └── screenshot.png         # Screenshot of the application
 ```
 
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it.
-
----
-
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix.
-3. Submit a pull request describing your changes.
-
----
-
-## Author
-**Your Name**  
-[Your Email Address]  
-[Your GitHub Profile]
-```
 
 ### Instructions:
 1. Save the content above as `README.md`.
